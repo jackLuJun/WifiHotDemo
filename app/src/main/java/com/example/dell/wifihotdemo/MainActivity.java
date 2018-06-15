@@ -48,6 +48,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
 
+        //test
+
 
      /*   mAccount = (EditText)findViewById(R.id.edit_account);
         mPwd = (EditText)findViewById(R.id.edit_psw);
